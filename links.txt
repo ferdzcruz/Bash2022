@@ -1,0 +1,7 @@
+https://linuxhint.com/30_bash_script_examples/#t12
+
+#how to run fix the virtualbox copy paste enabled
+
+yum update kernel kernel-headers
+yum install gcc
+install the CD now.
